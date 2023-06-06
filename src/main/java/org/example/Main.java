@@ -3,6 +3,7 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
         String str = new String("hello world");
+        String str1 = new String("hello world");
     }
 
     public enum CurrencyDenim {
